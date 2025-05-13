@@ -4,3 +4,4 @@ gsheet_creds.json
 .idea/**
 .DS_Store
 **/__pycache__/**
+frontend/node_modules/**
