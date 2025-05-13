@@ -1,0 +1,6 @@
+.env
+gsheet_creds.json
+.venv/**
+.idea/**
+.DS_Store
+**/__pycache__/**

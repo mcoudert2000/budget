@@ -1,0 +1,9 @@
+pydantic
+pandas
+requests
+requests-oauthlib
+gspread
+oauth2client
+fastapi
+uvicorn
+sqlglot
